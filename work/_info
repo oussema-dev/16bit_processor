@@ -1,0 +1,668 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+Ealu
+Z0 w1590189491
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z3 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z6 dD:/Disque/Documents/Oussema/Studies/2 ING/Semestre 2/Vhdl/Project/processeur
+Z7 8D:/Disque/Documents/Oussema/Studies/2 ING/Semestre 2/Vhdl/Project/processeur/alu.vhd
+Z8 FD:/Disque/Documents/Oussema/Studies/2 ING/Semestre 2/Vhdl/Project/processeur/alu.vhd
+l0
+L5
+Vo7f6;jKXkJT6IGcP2@^b41
+!s100 8ZlPOJ^DF]V:18AT4L4;S3
+Z9 OP;C;10.4a;61
+32
+Z10 !s110 1590414917
+!i10b 1
+Z11 !s108 1590414917.000000
+Z12 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Disque/Documents/Oussema/Studies/2 ING/Semestre 2/Vhdl/Project/processeur/alu.vhd|
+Z13 !s107 D:/Disque/Documents/Oussema/Studies/2 ING/Semestre 2/Vhdl/Project/processeur/alu.vhd|
+!i113 1
+Z14 o-work work -2002 -explicit -O0
+Z15 tExplicit 1
+Aarch
+R1
+R2
+R3
+R4
+R5
+DEx4 work 3 alu 0 22 o7f6;jKXkJT6IGcP2@^b41
+l17
+L14
+VXO[_g1f@I?1z>HYj[LJ]G3
+!s100 RRnU<fSj<<bz4;O5J?]Z]3
+R9
+32
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Ealu_test
+Z16 w1590411469
+R2
+R3
+R4
+R5
+R6
+Z17 8D:/Disque/Documents/Oussema/Studies/2 ING/Semestre 2/Vhdl/Project/processeur/alu_tb.vhd
+Z18 FD:/Disque/Documents/Oussema/Studies/2 ING/Semestre 2/Vhdl/Project/processeur/alu_tb.vhd
+l0
+L5
+V3e`DX1^YUNOJROMQZ8AWe3
+!s100 GYH;:hJGDG3TJWMJzG^cM2
+R9
+32
+R10
+!i10b 1
+R11
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Disque/Documents/Oussema/Studies/2 ING/Semestre 2/Vhdl/Project/processeur/alu_tb.vhd|
+Z20 !s107 D:/Disque/Documents/Oussema/Studies/2 ING/Semestre 2/Vhdl/Project/processeur/alu_tb.vhd|
+!i113 1
+R14
+R15
+Aarch
+R2
+R3
+R4
+R5
+DEx4 work 8 alu_test 0 22 3e`DX1^YUNOJROMQZ8AWe3
+l26
+L8
+VYgVbbHjaBakM9c7EOLEYd2
+!s100 NfDmLn`1JQ`IP;1A3A9[^3
+R9
+32
+R10
+!i10b 1
+R11
+R19
+R20
+!i113 1
+R14
+R15
+Ebascule
+Z21 w1590189105
+R1
+R2
+R3
+R4
+R5
+R6
+Z22 8D:/Disque/Documents/Oussema/Studies/2 ING/Semestre 2/Vhdl/Project/processeur/bascule.vhd
+Z23 FD:/Disque/Documents/Oussema/Studies/2 ING/Semestre 2/Vhdl/Project/processeur/bascule.vhd
+l0
+L5
+V47SCBMoY_TRe6Ca>Lbnk^3
+!s100 JT_]d_H;_;RdX?>ol`5E:1
+R9
+32
+R10
+!i10b 1
+R11
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Disque/Documents/Oussema/Studies/2 ING/Semestre 2/Vhdl/Project/processeur/bascule.vhd|
+Z25 !s107 D:/Disque/Documents/Oussema/Studies/2 ING/Semestre 2/Vhdl/Project/processeur/bascule.vhd|
+!i113 1
+R14
+R15
+Aarch
+R1
+R2
+R3
+R4
+R5
+DEx4 work 7 bascule 0 22 47SCBMoY_TRe6Ca>Lbnk^3
+l14
+L12
+V2PZldenc:N2K6A<2bW4nT3
+!s100 mQ;^dMJYeH8JP5TUe4PfH0
+R9
+32
+R10
+!i10b 1
+R11
+R24
+R25
+!i113 1
+R14
+R15
+Econtrol
+Z26 w1590189552
+R4
+R5
+R6
+Z27 8D:/Disque/Documents/Oussema/Studies/2 ING/Semestre 2/Vhdl/Project/processeur/control.vhd
+Z28 FD:/Disque/Documents/Oussema/Studies/2 ING/Semestre 2/Vhdl/Project/processeur/control.vhd
+l0
+L3
+VafFQaLhYH=WKlK[gO29]R1
+!s100 YUkNTej^QeNVA^]]dUUSi1
+R9
+32
+Z29 !s110 1590414918
+!i10b 1
+Z30 !s108 1590414918.000000
+Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Disque/Documents/Oussema/Studies/2 ING/Semestre 2/Vhdl/Project/processeur/control.vhd|
+Z32 !s107 D:/Disque/Documents/Oussema/Studies/2 ING/Semestre 2/Vhdl/Project/processeur/control.vhd|
+!i113 1
+R14
+R15
+Aarch
+R4
+R5
+DEx4 work 7 control 0 22 afFQaLhYH=WKlK[gO29]R1
+l46
+L23
+V[LE_F_geL0zk8<UccggT[0
+!s100 ^fAE6YdPSHQ:P[lAgTXeZ3
+R9
+32
+R29
+!i10b 1
+R30
+R31
+R32
+!i113 1
+R14
+R15
+Econtrol_test
+Z33 w1586625119
+R2
+R4
+R5
+R6
+Z34 8D:/Disque/Documents/Oussema/Studies/2 ING/Semestre 2/Vhdl/Project/processeur/control_tb.vhd
+Z35 FD:/Disque/Documents/Oussema/Studies/2 ING/Semestre 2/Vhdl/Project/processeur/control_tb.vhd
+l0
+L5
+VR:7K`XeS810jWOEI]9CAd0
+!s100 g0Q?YzaU5Q9@aJ9RXX1LP1
+R9
+32
+R29
+!i10b 1
+R30
+Z36 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Disque/Documents/Oussema/Studies/2 ING/Semestre 2/Vhdl/Project/processeur/control_tb.vhd|
+Z37 !s107 D:/Disque/Documents/Oussema/Studies/2 ING/Semestre 2/Vhdl/Project/processeur/control_tb.vhd|
+!i113 1
+R14
+R15
+Aarch
+R2
+R4
+R5
+DEx4 work 12 control_test 0 22 R:7K`XeS810jWOEI]9CAd0
+l56
+L8
+VYK5=7_3^^FCbCT^cQc;GZ1
+!s100 nYO>OIA@6b23GejQEI[Vj3
+R9
+32
+R29
+!i10b 1
+R30
+R36
+R37
+!i113 1
+R14
+R15
+Einstr_reg
+Z38 w1590189340
+R4
+R5
+R6
+Z39 8D:/Disque/Documents/Oussema/Studies/2 ING/Semestre 2/Vhdl/Project/processeur/instr_reg.vhd
+Z40 FD:/Disque/Documents/Oussema/Studies/2 ING/Semestre 2/Vhdl/Project/processeur/instr_reg.vhd
+l0
+L3
+VP=cH@lm4kOn:Lc_5SlaP_3
+!s100 `AKb9L^YS63=a`aKmi^171
+R9
+32
+Z41 !s110 1590414916
+!i10b 1
+Z42 !s108 1590414916.000000
+Z43 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Disque/Documents/Oussema/Studies/2 ING/Semestre 2/Vhdl/Project/processeur/instr_reg.vhd|
+Z44 !s107 D:/Disque/Documents/Oussema/Studies/2 ING/Semestre 2/Vhdl/Project/processeur/instr_reg.vhd|
+!i113 1
+R14
+R15
+Aarch
+R4
+R5
+DEx4 work 9 instr_reg 0 22 P=cH@lm4kOn:Lc_5SlaP_3
+l17
+L16
+V<5T;XhjPfh4PRWCkEkJb30
+!s100 ;TKS6nj]:PK4>2oP_KBmW0
+R9
+32
+R41
+!i10b 1
+R42
+R43
+R44
+!i113 1
+R14
+R15
+Einstr_reg_test
+Z45 w1586624982
+R2
+R4
+R5
+R6
+Z46 8D:/Disque/Documents/Oussema/Studies/2 ING/Semestre 2/Vhdl/Project/processeur/instr_reg_tb.vhd
+Z47 FD:/Disque/Documents/Oussema/Studies/2 ING/Semestre 2/Vhdl/Project/processeur/instr_reg_tb.vhd
+l0
+L5
+VYma6b[=aYjPUSQbe9?`Vb3
+!s100 >0SiIE;B40_Zh80?L<hPe3
+R9
+32
+R41
+!i10b 1
+R42
+Z48 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Disque/Documents/Oussema/Studies/2 ING/Semestre 2/Vhdl/Project/processeur/instr_reg_tb.vhd|
+Z49 !s107 D:/Disque/Documents/Oussema/Studies/2 ING/Semestre 2/Vhdl/Project/processeur/instr_reg_tb.vhd|
+!i113 1
+R14
+R15
+Aarch
+R2
+R4
+R5
+DEx4 work 14 instr_reg_test 0 22 Yma6b[=aYjPUSQbe9?`Vb3
+l36
+L8
+VJOF=bF?m96BaY?;lZ3HB_0
+!s100 KafP[;>E3kXUcPBo32?Tm1
+R9
+32
+R41
+!i10b 1
+R42
+R48
+R49
+!i113 1
+R14
+R15
+Emux
+Z50 w1585324652
+R4
+R5
+R6
+Z51 8D:/Disque/Documents/Oussema/Studies/2 ING/Semestre 2/Vhdl/Project/processeur/mux_2.vhd
+Z52 FD:/Disque/Documents/Oussema/Studies/2 ING/Semestre 2/Vhdl/Project/processeur/mux_2.vhd
+l0
+L3
+VP^oz>CP]`?:ib__BXHZRA0
+!s100 3l?d=l?5SF65>h?3M`=M00
+R9
+32
+Z53 !s110 1585324655
+!i10b 1
+Z54 !s108 1585324655.000000
+Z55 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Disque/Documents/Oussema/Studies/2 ING/Semestre 2/Vhdl/Project/processeur/mux_2.vhd|
+Z56 !s107 D:/Disque/Documents/Oussema/Studies/2 ING/Semestre 2/Vhdl/Project/processeur/mux_2.vhd|
+!i113 1
+R14
+R15
+Aarch
+R4
+R5
+DEx4 work 3 mux 0 22 P^oz>CP]`?:ib__BXHZRA0
+l11
+L10
+V=NYWd<KMoz>lg5^hP97Ec0
+!s100 V][b[YIJ2LL1I9nb<67W;1
+R9
+32
+R53
+!i10b 1
+R54
+R55
+R56
+!i113 1
+R14
+R15
+Emux_1
+Z57 w1590189204
+R4
+R5
+R6
+Z58 8D:/Disque/Documents/Oussema/Studies/2 ING/Semestre 2/Vhdl/Project/processeur/mux_1.vhd
+Z59 FD:/Disque/Documents/Oussema/Studies/2 ING/Semestre 2/Vhdl/Project/processeur/mux_1.vhd
+l0
+L3
+V^@PMGWU1XzhNjFWM0^[BL1
+!s100 UQBgAh:_5iDQM3Na]EQ[40
+R9
+32
+R29
+!i10b 1
+R30
+Z60 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Disque/Documents/Oussema/Studies/2 ING/Semestre 2/Vhdl/Project/processeur/mux_1.vhd|
+Z61 !s107 D:/Disque/Documents/Oussema/Studies/2 ING/Semestre 2/Vhdl/Project/processeur/mux_1.vhd|
+!i113 1
+R14
+R15
+Aarch
+R4
+R5
+DEx4 work 5 mux_1 0 22 ^@PMGWU1XzhNjFWM0^[BL1
+l11
+L10
+Va8JKlBmYl4:oOFd<FU2:40
+!s100 55UelGT5;h[1Ld8KO`@WT3
+R9
+32
+R29
+!i10b 1
+R30
+R60
+R61
+!i113 1
+R14
+R15
+Emux_2
+Z62 w1590189184
+R4
+R5
+R6
+R51
+R52
+l0
+L3
+VQj4d[@O8Cn?E4:G8<5@O;3
+!s100 0FC=XWAm`zD6eY::FA;8?1
+R9
+32
+R10
+!i10b 1
+R11
+R55
+R56
+!i113 1
+R14
+R15
+Aarch
+R4
+R5
+DEx4 work 5 mux_2 0 22 Qj4d[@O8Cn?E4:G8<5@O;3
+l11
+L10
+V<1aGTjh_;WGhiZ;E<SB9`2
+!s100 aFbYW?eo?T1WWjof>DjbP3
+R9
+32
+R10
+!i10b 1
+R11
+R55
+R56
+!i113 1
+R14
+R15
+Eproc
+Z63 w1590414608
+R1
+R2
+R3
+R4
+R5
+R6
+Z64 8D:/Disque/Documents/Oussema/Studies/2 ING/Semestre 2/Vhdl/Project/processeur/proc.vhd
+Z65 FD:/Disque/Documents/Oussema/Studies/2 ING/Semestre 2/Vhdl/Project/processeur/proc.vhd
+l0
+L5
+VnLfn7=ZzXOIUe?7V[S`3X1
+!s100 VKHfbUGB>l7?3@L6z3cN]1
+R9
+32
+R29
+!i10b 1
+R30
+Z66 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Disque/Documents/Oussema/Studies/2 ING/Semestre 2/Vhdl/Project/processeur/proc.vhd|
+Z67 !s107 D:/Disque/Documents/Oussema/Studies/2 ING/Semestre 2/Vhdl/Project/processeur/proc.vhd|
+!i113 1
+R14
+R15
+Aarch
+R1
+R2
+R3
+R4
+R5
+DEx4 work 4 proc 0 22 nLfn7=ZzXOIUe?7V[S`3X1
+l109
+L15
+VOohcCafKVcVogfFS5@lz[0
+!s100 H6b[QkN85]ocVKf:5S@>71
+R9
+32
+R29
+!i10b 1
+R30
+R66
+R67
+!i113 1
+R14
+R15
+Eproc_test
+Z68 w1590411240
+R2
+R4
+R5
+R6
+Z69 8D:/Disque/Documents/Oussema/Studies/2 ING/Semestre 2/Vhdl/Project/processeur/proc_tb.vhd
+Z70 FD:/Disque/Documents/Oussema/Studies/2 ING/Semestre 2/Vhdl/Project/processeur/proc_tb.vhd
+l0
+L5
+VLbC1?0@^ILUee:Z<Ia?iA3
+!s100 98Bk0IWl`a=KQZCVAmeEV2
+R9
+32
+R29
+!i10b 1
+R30
+Z71 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Disque/Documents/Oussema/Studies/2 ING/Semestre 2/Vhdl/Project/processeur/proc_tb.vhd|
+Z72 !s107 D:/Disque/Documents/Oussema/Studies/2 ING/Semestre 2/Vhdl/Project/processeur/proc_tb.vhd|
+!i113 1
+R14
+R15
+Aarch
+R2
+R4
+R5
+Z73 DEx4 work 9 proc_test 0 22 LbC1?0@^ILUee:Z<Ia?iA3
+l30
+L8
+Z74 V5HbznU8S@la5bZb6LkG;M3
+Z75 !s100 ^ZVQh2W]0iSkPUm]OWfU?0
+R9
+32
+R29
+!i10b 1
+R30
+R71
+R72
+!i113 1
+R14
+R15
+Ereg_file
+Z76 w1590189431
+R1
+R4
+R5
+R6
+Z77 8D:/Disque/Documents/Oussema/Studies/2 ING/Semestre 2/Vhdl/Project/processeur/reg_file.vhd
+Z78 FD:/Disque/Documents/Oussema/Studies/2 ING/Semestre 2/Vhdl/Project/processeur/reg_file.vhd
+l0
+L4
+VHe2dTl]lGYbTzS2WV5?Ae0
+!s100 eZI3zl_18MLm>>@mbob?V2
+R9
+32
+R10
+!i10b 1
+R11
+Z79 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Disque/Documents/Oussema/Studies/2 ING/Semestre 2/Vhdl/Project/processeur/reg_file.vhd|
+Z80 !s107 D:/Disque/Documents/Oussema/Studies/2 ING/Semestre 2/Vhdl/Project/processeur/reg_file.vhd|
+!i113 1
+R14
+R15
+Aarch
+R1
+R4
+R5
+DEx4 work 8 reg_file 0 22 He2dTl]lGYbTzS2WV5?Ae0
+l22
+L19
+V]d><4?NbO8ddV?h<gA9gF2
+!s100 @D;Fj3Q<=>hDVn92R2@hH3
+R9
+32
+R10
+!i10b 1
+R11
+R79
+R80
+!i113 1
+R14
+R15
+Ereg_file_test
+Z81 w1586625035
+R2
+R4
+R5
+R6
+Z82 8D:/Disque/Documents/Oussema/Studies/2 ING/Semestre 2/Vhdl/Project/processeur/reg_file_tb.vhd
+Z83 FD:/Disque/Documents/Oussema/Studies/2 ING/Semestre 2/Vhdl/Project/processeur/reg_file_tb.vhd
+l0
+L5
+V`Y?KRF^2BV^NI5I6MaO8a2
+!s100 e@=YHOE5fKT5`1g6`elTj1
+R9
+32
+R10
+!i10b 1
+R11
+Z84 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Disque/Documents/Oussema/Studies/2 ING/Semestre 2/Vhdl/Project/processeur/reg_file_tb.vhd|
+Z85 !s107 D:/Disque/Documents/Oussema/Studies/2 ING/Semestre 2/Vhdl/Project/processeur/reg_file_tb.vhd|
+!i113 1
+R14
+R15
+Aarch
+R2
+R4
+R5
+DEx4 work 13 reg_file_test 0 22 `Y?KRF^2BV^NI5I6MaO8a2
+l46
+L8
+VhJ`_DH3<]3eT:O4[AlYUP3
+!s100 6jS4JO<JZ1dnj0@SYKNBe1
+R9
+32
+R10
+!i10b 1
+R11
+R84
+R85
+!i113 1
+R14
+R15
+Estatus_reg
+Z86 w1590189390
+R4
+R5
+R6
+Z87 8D:/Disque/Documents/Oussema/Studies/2 ING/Semestre 2/Vhdl/Project/processeur/status_reg.vhd
+Z88 FD:/Disque/Documents/Oussema/Studies/2 ING/Semestre 2/Vhdl/Project/processeur/status_reg.vhd
+l0
+L3
+VLCmoWPlIcWV>]D@JJVF4^3
+!s100 1O`oNF6[OIBZJ:T8NUn113
+R9
+32
+R41
+!i10b 1
+R42
+Z89 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Disque/Documents/Oussema/Studies/2 ING/Semestre 2/Vhdl/Project/processeur/status_reg.vhd|
+Z90 !s107 D:/Disque/Documents/Oussema/Studies/2 ING/Semestre 2/Vhdl/Project/processeur/status_reg.vhd|
+!i113 1
+R14
+R15
+Aarch
+R4
+R5
+DEx4 work 10 status_reg 0 22 LCmoWPlIcWV>]D@JJVF4^3
+l11
+L10
+VRzV5Ib2dd[@kL]VSTlcM;1
+!s100 m;iXbn_gzdkmP>Q2<lMT>1
+R9
+32
+R41
+!i10b 1
+R42
+R89
+R90
+!i113 1
+R14
+R15
+Estatus_reg_test
+Z91 w1586625043
+R2
+R4
+R5
+R6
+Z92 8D:/Disque/Documents/Oussema/Studies/2 ING/Semestre 2/Vhdl/Project/processeur/status_reg_tb.vhd
+Z93 FD:/Disque/Documents/Oussema/Studies/2 ING/Semestre 2/Vhdl/Project/processeur/status_reg_tb.vhd
+l0
+L5
+Vi[f`N>>zG<8`2`i?1Rl];1
+!s100 HcRocjc>[M:6JNgA52kM71
+R9
+32
+R10
+!i10b 1
+R42
+Z94 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Disque/Documents/Oussema/Studies/2 ING/Semestre 2/Vhdl/Project/processeur/status_reg_tb.vhd|
+Z95 !s107 D:/Disque/Documents/Oussema/Studies/2 ING/Semestre 2/Vhdl/Project/processeur/status_reg_tb.vhd|
+!i113 1
+R14
+R15
+Aarch
+R2
+R4
+R5
+DEx4 work 15 status_reg_test 0 22 i[f`N>>zG<8`2`i?1Rl];1
+l28
+L8
+V;I@dCf9kW]Ye00bk8SP@a2
+!s100 Y@6oU:3[?5liWSmiFG6N`1
+R9
+32
+R10
+!i10b 1
+R42
+R94
+R95
+!i113 1
+R14
+R15
